@@ -2,11 +2,6 @@
 
 Ansible role to handle common user / group setup
 
-[![GitHub issues](https://img.shields.io/github/issues/rgibert/ansible-role-user-setup.svg)](https://github.com/rgibert/ansible-role-user-setup/issues)
-[![GitHub forks](https://img.shields.io/github/forks/rgibert/ansible-role-user-setup.svg)](https://github.com/rgibert/ansible-role-user-setup/network)
-[![GitHub stars](https://img.shields.io/github/stars/rgibert/ansible-role-user-setup.svg)](https://github.com/rgibert/ansible-role-user-setup/stargazers)
-[![GitHub license](https://img.shields.io/github/license/rgibert/ansible-role-user-setup.svg)](https://github.com/rgibert/ansible-role-user-setup/blob/master/LICENSE)
-
 ## Requirements
 
 - none
@@ -41,6 +36,4 @@ GPL-3
 Author Information
 ------------------
 
-Richard Gibert
-richard@gibert.ca
-
+Adam Birds
